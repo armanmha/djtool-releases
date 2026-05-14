@@ -13,3 +13,5 @@ This app contains tools rekordbox DJs can use to improve their workflow for a va
 
    
 3) The app should now open and you can utilize the variety of tools it has to offer.
+
+   <img width="553" height="375.5" alt="image" src="https://github.com/user-attachments/assets/6b271e65-405c-41c9-a044-90c3bdbd438b" />
