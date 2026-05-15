@@ -17,6 +17,7 @@ This app contains tools rekordbox DJs can use to improve their workflow for a va
    <img width="553" height="375.5" alt="image" src="https://github.com/user-attachments/assets/6b271e65-405c-41c9-a044-90c3bdbd438b" />
 
 # Download Instructions (macOS): 
+**Note: macOS file is currently not tested, so the app file may not run.**
 
 1) Download the latest 'djtool-mac.zip' file under the releases section.
 2) Unzip the folder, and run the file 'djtool.app.'
